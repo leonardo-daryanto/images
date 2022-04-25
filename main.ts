@@ -1,7 +1,4 @@
 //% weight=100 color=#C0392B icon=AB
-/**
- * text(string)blocks.
- */
 namespace text {
     /**
      * add text and use positions
